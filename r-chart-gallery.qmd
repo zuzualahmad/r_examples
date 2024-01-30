@@ -1,0 +1,58 @@
+---
+title: "Cool blog notes"
+format: html
+editor: source
+theme: darkly
+
+---
+
+# From r-ladies
+... will do at night
+
+## R chart Gallary chart #1 for Juanuary 30
+
+*making barplot with base R
+```{r barplot, echo=FALSE, warning=FALSE}
+# create dummy data
+data <- data.frame(
+  name=letters[1:5],
+  value=sample(seq(4,15),5)
+)
+
+# The most basic barplot you can do:
+barplot(height=data$value, names=data$name)
+```
+
+```{r My barplot, echo=FALSE, warning=FALSE}
+# create dummy data
+data <- data.frame(
+  name=letters[1:5],
+  value=sample(seq(4,15),5)
+)
+# Generate a vector of colors
+colors <- rainbow(length(data$value))
+
+# Barplot with individual colors, modified text size
+barplot(height=data$value, names=data$name, 
+        col=colors,  # Using the generated colors
+        xlab="Categories", 
+        ylab="Values", 
+        main="My Customized Barplot", 
+        ylim=c(0, 20),  # Adjusted according to your data
+        cex.names=0.8,  # Adjust category name size
+        cex.axis=0.8,   # Adjust axis text size
+        cex.lab=1.0     # Adjust label size
+)
+
+# Uniform color
+barplot(height=data$value, names=data$name, 
+        col=rgb(0.8,0.1,0.1,0.6,0.8),
+        xlab="categories", 
+        ylab="values", 
+        main="My barplot", 
+        ylim=c(0,90)
+        )
+# barplot
+barplot( height=data$value, names=data$name , density=c(5,10,20,30,7) , angle=c(0,45,90,11,36) , col="Red"   )
+```
+
