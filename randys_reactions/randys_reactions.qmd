@@ -1,0 +1,16 @@
+---
+title: "Randy's Reactions"
+format: html
+editor: source
+---
+
+## r-chart gallery homework Jan 28, 2024
+
+Nice!  Love the exploration of colors and patterns!  A few things to keep in mind:
+
+* Insert the URL for the code so you can find it again in the future, or share with others
+* Nice comments-if you wrote them, great!  If not, note that they are nicely done and can serve as an example
+* Line 33 is super interesting.  If you do not understand that one, take a look and see what you can figure out.
+* The code for the last barplot is formatted differently-note what is different and which formatting is easiest for you to read and understand.
+
+THANK YOU!
