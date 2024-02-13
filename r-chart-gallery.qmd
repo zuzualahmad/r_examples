@@ -2,7 +2,7 @@
 title: "Cool blog notes"
 format: html
 editor: source
-theme: darkly
+theme: quartz
 
 ---
 
