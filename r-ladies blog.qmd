@@ -1,0 +1,54 @@
+---
+title: "The R-Ladies Network in South America"
+author: "Zeinab Al Ahmad"
+format: 
+  html:
+    toc: true
+    theme: Darkly
+editor: source
+---
+<style>
+/* custom style for the document title*/
+h1.title {
+font-size: 36px; /* Adjust the font size as needed */
+color: Pink; /* Pink */
+text-align: center; /* Center align the title */
+}
+
+/* Style for level 2 headings */
+h2 {
+color: Blue; /* A shade of blue for level 2 headings */ }
+}
+</style>
+
+## Mine Dogucu's South American Sojourn
+
+As a graduate student in December 2014, Mine set out on an exploratory journey to South America, visiting Chile, Uruguay, and Argentina. Leveraging her connections from Smith College, she meticulously planned her trip, keen on making the most of her international friendships to enrich her travel experience.
+
+## An Unexpected Connection in Buenos Aires
+
+In Argentina, Mine's travel took an interesting turn when she was warmly hosted by Paloma, an acquaintance of a Bolivian friend, in Buenos Aires. Their stay together led to a serendipitous discovery of their shared interest in statistics, igniting both a professional and personal camaraderie between them.
+
+## Paloma Rojas-Saunero's Path to Empowerment
+
+While deeply immersed in her Master's in Clinical Research, Paloma found herself inspired by the field of biostatistics. This inspiration was further fueled when she met Mine, a woman statistician, whose mentorship and example encouraged Paloma to delve deeper into her field and consider pursuing a PhD.
+
+## Laura Acion: The Link in the Chain
+
+After working in the U.S., Laura reconnected with her roots by returning to Buenos Aires, where she re-engaged with the local academic scene. In her role as a teacher, she met Paloma, and the two quickly bonded over their shared academic interests and aspirations, forging a strong connection both as colleagues and friends.
+
+## The Birth of R-Ladies Buenos Aires
+
+Inspired by Mine's experience, Laura, with the support of Paloma, brought the idea of the R-Ladies chapter to life in Buenos Aires in 2017. The team was further strengthened when Dani Vázquez joined as a co-founder, solidifying the chapter's foundation and setting the stage for its future growth and success.
+
+## Expanding Across Continents
+
+The success of the Buenos Aires chapter of R-Ladies served as an inspiration, leading to the formation of new chapters throughout South America and beyond. This expansion included a significant step into Europe, where Paloma played a pivotal role by co-founding the R-Ladies chapter in Rotterdam, thus extending the network's global influence.
+
+## Achievements and Growth
+
+The emergence of LatinR, a pivotal conference, marked a significant milestone, highlighting the network's considerable impact within the R community. Concurrently, the network experienced a surge in growth, flourishing as new chapters sprang up across various South American nations, demonstrating its expanding influence and reach.
+
+## Reflecting on an Impressive Journey
+
+What started as Mine's modest plan to couchsurf through South America evolved into a transformative movement for women in statistics, epitomizing the power of friendship, mentorship, and shared passions in building professional communities. This journey, beginning with personal connections, unfolded into a far-reaching narrative of growth and empowerment in the field of statistics.

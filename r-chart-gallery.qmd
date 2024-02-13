@@ -1,13 +1,12 @@
 ---
 title: "Cool blog notes"
+author: "Zeinab Al Ahmad"
 format: html
 editor: source
 theme: quartz
 
 ---
 
-# From r-ladies
-... will do at night
 
 ## R chart Gallary chart #1 for Juanuary 30
 
