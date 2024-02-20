@@ -1,0 +1,51 @@
+---
+title: "Chord Diagram Practice"
+format: html
+editor: 
+author: Zee Al Ahmad
+---
+
+```{r}
+library(circlize)
+# Creating a sample matrix for the chord diagram
+matrix_data <- matrix(c(
+  0, 20, 30, 40,
+  10, 0, 50, 60,
+  70, 80, 0, 90,
+  20, 30, 40, 0
+), nrow = 4, byrow = TRUE, 
+dimnames = list(c("A", "B", "C", "D"), c("A", "B", "C", "D")))
+# Drawing the chord diagram
+chordDiagram(matrix_data)
+
+
+```
+
+```{r}
+# Assume matrix_data is defined with dimnames as sectors "A", "B", "C", "D"
+# Ensure you have a color for each sector
+sector_names = colnames(matrix_data) # or rownames(matrix_data) since it should be the same
+col = rand_color(length(sector_names))
+
+# Name the colors vector for clarity and direct mapping (optional but helpful)
+names(col) = sector_names
+
+# Drawing the chord diagram with specified colors
+chordDiagram(matrix_data, grid.col = col)
+
+
+```
+
+```{r}
+library(circlize)
+# Generate a color vector with rainbow
+col = rainbow(length(sector_names))
+
+# Optionally, name the vector to match sector names
+names(col) = sector_names
+
+# Draw the diagram
+chordDiagram(matrix_data, grid.col = col)
+
+
+```
