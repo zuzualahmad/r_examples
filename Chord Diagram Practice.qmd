@@ -1,7 +1,6 @@
 ---
 title: "Chord Diagram Practice"
 format: html
-editor: 
 author: Zee Al Ahmad
 ---
 
