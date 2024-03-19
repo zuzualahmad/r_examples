@@ -37,6 +37,12 @@ Over the course it is expected you will:
     
 * make workflowr website https://workflowr.github.io/workflowr/
 
+**Reflection**
+Looking back at my time in the R coding class, I started with no background in coding, which made the beginning especially challenging. Despite feeling overwhelmed at first, I committed myself to fully engage with the class by doing all my homework and putting in extra effort to understand the concepts like watching youtube videos just to learn/understand some concepts and i remember after first day of class I was like what is this! i started watching beginner tutorials for R lol, and also my friend is doing a PHD in engineering and he uses R for his work/research! and he showed me some of his work on R and I found that interesting for me to do for later when I start working on my own research (BTW if you haven't gotten all of my homework on github you can ask to see them during our meetings because maybe some of them were not pushed to github)
+
+So From being unsure about coding to reaching a point where I'm now comfortable with R shows how far I've come. I've come to realize that in coding, there's no final level of expertise or being perfect rather it's a continuous journey of learning. Every challenge I faced pushed me to learn more. and yep i kept on asking you a lot of questions to solve some of the challenges i've faced (thanks for not making me feel like I was trying to debug my brain out loud!)
+
+Anyway, I know there are students in the class who came with prior experience with R, I've focused on my own growth. Seeing my improvement and knowing the effort I've put into learning R, and comparing me to others who maybe more experts in R, I feel a grade of B+ represents my journey. 
 
 
 

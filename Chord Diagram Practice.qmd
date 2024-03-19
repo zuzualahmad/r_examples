@@ -1,12 +1,11 @@
 ---
 title: "Chord Diagram Practice"
 format: html
-editor: visual
+editor: 
 author: Zee Al Ahmad
-{r echo: false}
 ---
 
-```{r} 
+```{r}
 library(circlize)
 # Creating a sample matrix for the chord diagram
 matrix_data <- matrix(c(

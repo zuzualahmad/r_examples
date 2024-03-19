@@ -10,10 +10,17 @@
 # load packages ------
 # we will first install pacman, then use it to install and load packages
 
-install.packages('pacman')
-library(pacman)
+#install.packages('pacman')
+#library(pacman)
 
-p_load(chorddiag, htmlwidgets, tidyverse)
+#p_load(chorddiag, htmlwidgets, tidyverse)
+library(htmlwidgets)
+library(chorddiag)
+library(htmlwidgets)
+library(igraph)
+library(readr)
+library(tidygraph)
+library(tidyverse)
 
 
 
@@ -71,3 +78,4 @@ htmlwidgets::saveWidget(chord,
                         background = "white",
                         selfcontained = TRUE
 )
+
